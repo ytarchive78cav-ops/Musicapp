@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+frontend/node_modules/
+frontend/dist/
+frontend/src/*.js
+frontend/*.tsbuildinfo
+backend/uploads/
+backend/exports/
+backend/sessions/
+backend/data/*.wav
